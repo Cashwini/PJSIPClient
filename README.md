@@ -1,6 +1,9 @@
 # PJSIPClient
 SIP Client with PJSIP - Use with ASTERISK Server
 
+PJSIP needs to be installed on the system before any of this can work.
+System Requirements: Ubuntu 14.04
+
 sip_client is a basic client program with SIP functionalities developed using
 PJSIP open source library. This client application is capable to add account,
 register and unregister, make a call and terminate calls, handle incoming calls
